@@ -35,10 +35,10 @@
 - 4.可配合开发各种聚合码通道（收费）
 
 ### 在线demo
-- 本项目演示地址： [点此测试](https://dispay.goodqp.com/)
+- 本项目演示地址： [点此测试](http://dispay.goodqp.com/)
 
 ### 开始部署
-- 本项目源码下载： [点此下载](https://dispay.goodqp.com/)
+- 本项目源码下载： [点此下载](http://dispay.goodqp.com/)
 
 ### 更新日志：
 ==========【重大更新】1.10更新说明=============
